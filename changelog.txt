@@ -1,0 +1,28 @@
+7-01-24
+blog.html - Spelling Fixes
+media.html - Updated Television section
+index.html - Updated status
+media.html - Updated status
+
+6-30-24
+media.html - Grammar Fixes
+blog.html - Added update for old blog post
+media.html - Updated Video Game section
+blog.html - Added new blog post
+
+6-25-24
+index.html - Added link to changelogs in footer
+media.html - Spelling fixes
+
+6-24-24
+blog.html - Added new blog post
+blog.html - Added navbar link to media.html
+index.html - Added navbar link to media.html
+media.html - Created
+
+6-17-24
+index.html - About Me section updated
+index.html - Added footer and contact email
+blog.html - Added footer and contact email
+blog.html - Added new blog post
+blog.html - Created
