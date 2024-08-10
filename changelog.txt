@@ -1,3 +1,71 @@
+8-09-24
+media.html - Updated Books section
+
+8-08-24
+index.html - Slight formatting changes
+media.html - Slight formatting changes
+entire site - Major CSS changes
+
+8-06-24
+blog.html - Added new blog post
+media.html - Updated Television section
+
+8-05-24
+media.html - Updated Books section
+blog.html - Added new blog post
+
+8-01-24
+media.html - updated Music Section
+
+7-29-24
+media.html - Updated Movies section
+media.html - Spelling Fixes
+index.html - Grammar Fixes
+media.html - Updated Music section
+
+7-28-24
+blog.html - Added new blog post
+
+7-27-24
+media.html - Updated Music Section
+media.html - Updated Books section
+
+7-26-24
+blog.html - Added update to old blog post
+
+7-25-24
+blog.html - Added new blog post
+
+7-24-24
+media.html - Updated Video Games section
+
+7-22-24
+index.html - Added link to Spotify Profile
+media.html - Added Music Section
+
+7-21-24
+media.html - Updated Video Games section
+blog.html - Grammar Fixes
+
+7-20-24
+not_found.html - Added image
+media.html - Updated Books Section
+blog.html - Added new blog post
+
+7-19-24
+media.html - Updated Television section
+blog.html - Added new blog post
+
+7-13-24
+blog.html - Added new blog post
+blog.html - Added note for old post
+blog.html - Grammar Fixes
+blog.html - Added new blog post
+
+7-12-24
+blog.html - Added two new blog posts
+media.html - Updated Television section
+
 7-01-24
 blog.html - Spelling Fixes
 media.html - Updated Television section
@@ -7,7 +75,7 @@ media.html - Updated status
 6-30-24
 media.html - Grammar Fixes
 blog.html - Added update for old blog post
-media.html - Updated Video Game section
+media.html - Updated Video Games section
 blog.html - Added new blog post
 
 6-25-24

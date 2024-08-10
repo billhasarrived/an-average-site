@@ -1,36 +1,54 @@
-/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
-   HTML content. To learn how to do something, just try searching Google for questions like
-   "how to change link color." */
-
 body {
   background-color: #20B2AA;
   color: black;
   font-family: monospace;
 }
-.about {
+header {
   background-color: GoldenRod;
   border-style: outset;
-  border-width: 2px;
+  border-width: 4px;
   border-color: Gold;
+  padding-left: 10px;
+  padding-right: 5px;
+  margin: 0 0.5%;
+  width: 230px;
+}
+.about {
+  background-color: #a0a0a4;
+  border-style: outset;
+  border-width: 4px;
+  border-color: #c0c0c0;
   padding-left: 15px;
 }
-article {
-  background-color: GoldenRod;
+.social {
+  background-color: #a0a0a4;
   border-style: outset;
-  border-width: 2px;
-  border-color: Gold;
+  border-width: 4px;
+  border-color: #c0c0c0;
+  padding-left: 15px;
+  padding-bottom: 10px;
+  margin: 0 0.1%;
+  width: 225px;
+}
+  
+article {
+  background-color: #a0a0a4;
+  border-style: outset;
+  border-width: 4px;
+  border-color: #c0c0c0;
   padding-left: 15px;
   padding-right: 20px;
+  padding-bottom: 10px;
 }
 nav {
-  background-color: ForestGreen;
+  background-color: #009f55;
   border-style: outset;
-  border-width: 2px;
-  border-color: MediumSeaGreen;
+  border-width: 3px;
+  border-color: #009f00;
   padding-top: 5px;
   padding-left: 15px;
   padding-right: 10px;
   padding-bottom: 5px;
-  margin:0 0.5%;
+  margin: 0 0.5%;
   width: 155px;
 }
