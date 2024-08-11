@@ -1,3 +1,7 @@
+8-10-24
+blog.html - Added new blog post
+media.html - Updated Books section
+
 8-09-24
 media.html - Updated Books section
 
