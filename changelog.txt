@@ -1,3 +1,6 @@
+8-13-24
+media.html - Updated Music and Books sections
+
 8-10-24
 blog.html - Added new blog post
 media.html - Updated Books section
