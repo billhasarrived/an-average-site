@@ -1,3 +1,6 @@
+8-17-24
+media.html - Added links to archives for recently done stuff
+
 8-15-24
 media.html - Updated Books Section
 
