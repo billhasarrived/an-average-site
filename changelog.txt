@@ -1,3 +1,6 @@
+8-20-24
+blog.html - added an archive
+
 8-17-24
 media.html - Added links to archives for recently done stuff
 
