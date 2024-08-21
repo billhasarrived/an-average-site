@@ -1,5 +1,7 @@
+8-21-24
+entire site - licensed as CC-BY-ND
+
 8-20-24
-index.html - Added neocities image.
 blog.html - added an archive
 
 8-17-24
