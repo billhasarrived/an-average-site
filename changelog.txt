@@ -1,3 +1,7 @@
+8-23-24
+media.html - Updated Television section.
+blog.html - Added new blog post
+
 8-21-24
 entire site - licensed as CC-BY-ND
 
