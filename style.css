@@ -1,15 +1,15 @@
 body {
   background-color: black;
-  color: Lime;
+  color: #19FF80;
   font-family: monospace;
 }
 header {
   border-style: double;
   border-width: 4px;
-  padding-left: 15px;
+  padding-left: 20px;
   padding-right: 5px;
   margin: 0 0.5%;
-  width: 230px;
+  width: 250px;
 }
 .about {
   border-style: dashed;
@@ -39,7 +39,7 @@ header {
   padding-left: 15px;
   padding-bottom: 5px;
   margin: 0 0.1%;
-  width: 170px;
+  width: 190px;
 }
 article {
   border-style: dashed;
@@ -56,20 +56,20 @@ nav {
   padding-right: 10px;
   padding-bottom: 5px;
   margin: 0 0.5%;
-  width: 155px;
+  width: 170px;
 }
 hr {
   height: 1px;
   border-width: 0;
-  background-color: lime;
-  color: Lime;
+  background-color: #19FF80;
+  color: #19FF80;
 }
 a:link {
-  color: Blue;
+  color: #2ECFFF;
   text-decoration: underline;
 }
 
 a:visited {
-  color: turquoise;
+  color: #2ECFFF;
   text-decoration: underline;
 }
