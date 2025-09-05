@@ -1,23 +1,50 @@
+@font-face {
+  font-family: 'TT2020';
+  src: url(TT2020StyleG-Regular.woff2);
+  src: url(TT2020StyleG-Regular.woff);
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media (prefers-color-scheme: dark) {
+  html, img, video, iframe, button {
+    filter: invert(1);
+  }
+  body {
+    background-color: white;
+  }
+}
+
 body {
-  background-color: black;
-  color: #2ECFFF;
-  font-family: monospace;
+  background: white;
+  color: black;
+  font-family: TT2020, Times, "Times New Roman", Georgia, serif;
+  font-size: 13px;
+  text-align: left;
 }
 header {
+  background-color: white;
   border-style: double;
   border-width: 4px;
   padding-left: 20px;
-  padding-right: 5px;
-  margin: 0 0.5%;
-  width: 250px;
+  padding-right: 20px;
+  margin: 0 0.1%;
+  width: 240px;
 }
+
+.wrap {
+  overflow: hidden;
+}
+
 .about {
+  background-color: white;
   border-style: dashed;
   border-width: 1px;
   padding-left: 15px;
   padding-right: 10px;
 }
 .social {
+  background-color: white;
   border-style: dashed;
   border-width: 1px;
   padding-left: 15px;
@@ -26,50 +53,55 @@ header {
   width: 225px;
 }
 .archive {
+  background-color: white;
   border-style: dotted;
   border-width: 1px;
   padding-left: 15px;
+  padding-right: 15px;
   padding-bottom: 5px;
   margin: 0 0.1%;
-  width: 240px;
+  width: 260px;
+  text-align: left;
 }
 .return {
+  background-color: white;
   border-style: dotted;
   border-width: 1px;
   padding-left: 15px;
   padding-bottom: 5px;
   margin: 0 0.1%;
-  width: 170px;
+  width: 10px;
 }
 article {
+  background-color: white;
   border-style: dashed;
   border-width: 1px;
   padding-left: 15px;
   padding-right: 20px;
   padding-bottom: 10px;
+  text-align: left;
+  margin: 0 0.1%;
+  h2 {
+    text-align: center;
+  }
 }
 nav {
+  background-color: white;
   border-style: solid;
   border-width: 1px;
   padding-top: 5px;
   padding-left: 15px;
-  padding-right: 10px;
+  padding-right: 15px;
   padding-bottom: 5px;
-  margin: 0 0.5%;
-  width: 170px;
-}
-hr {
-  height: 1px;
-  border-width: 0;
-  background-color: #2ECFFF;
-  color: #2ECFFF;
+  margin: 0 0.1%;
+  width: 160px;
 }
 a:link {
-  color: #19FF80;
+  color: blue;
   text-decoration: underline;
 }
 
 a:visited {
-  color: #19FF80;
+  color: purple;
   text-decoration: underline;
 }

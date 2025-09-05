@@ -1,31 +1,83 @@
+@font-face {
+  font-family: 'TT2020';
+  src: url(TT2020StyleG-Regular.woff2);
+  src: url(TT2020StyleG-Regular.woff);
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media (prefers-color-scheme: dark) {
+  html, img, video, iframe, button {
+    filter: invert(1);
+  }
+  body {
+    background-color: white;
+  }
+}
+
 body {
-  background-color: black;
-  color: #19FF80;
-  font-family: monospace;
+  background: white;
+  color: black;
+  font-family: TT2020, Times, "Times New Roman", Georgia, Garamond, Serif, Tahoma, Arial;
+  font-size: 13px;
+  text-align: left;
 }
 header {
+  background-color: white;
   border-style: double;
   border-width: 4px;
   padding-left: 20px;
-  padding-right: 5px;
-  margin: 0 0.5%;
-  width: 250px;
+  padding-right: 20px;
+  margin: 0 0.1%;
+  width: 240px;
 }
 .about {
+  background-color: white;
   border-style: dashed;
   border-width: 1px;
   padding-left: 15px;
   padding-right: 10px;
+  width: 90%;
+  margin: 0 0.1%;
+  text-align: left;
+  h2 {
+    text-align: center;
+  }
 }
+
+.wrap {
+  overflow: hidden;
+}
+
 .social {
+  background-color: white;
   border-style: dashed;
   border-width: 1px;
   padding-left: 15px;
   padding-bottom: 10px;
   margin: 0 0.1%;
   width: 225px;
+  text-align: left;
+  h2 {
+    text-align: center;
+  }
+  ul li {
+    list-style-position: inside;
+  }
+}
+.buttons {
+  background-color: white;
+  border-style: dashed;
+  border-width: 1px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  margin: 0 0.1%;
+  width: 60%;
+  text-align: left;
 }
 .archive {
+  background-color: black;
   border-style: dotted;
   border-width: 1px;
   padding-left: 15px;
@@ -34,42 +86,55 @@ header {
   width: 220px;
 }
 .return {
+  background-color: white;
   border-style: dotted;
   border-width: 1px;
   padding-left: 15px;
+  padding-right: 15px;
   padding-bottom: 5px;
   margin: 0 0.1%;
   width: 190px;
 }
+footer {
+  background-color: white;
+  border-style: solid;
+  border-width: 1px;
+  padding-left: 15px;
+  padding-right: 10px;
+  width: 90%;
+  margin: 0 0.1%;
+}
 article {
+  background-color: white;
   border-style: dashed;
   border-width: 1px;
   padding-left: 15px;
   padding-right: 20px;
   padding-bottom: 10px;
+  text-align: left;
+  margin: 0 0.1%;
 }
 nav {
+  background-color: white;
   border-style: solid;
   border-width: 1px;
   padding-top: 5px;
   padding-left: 15px;
   padding-right: 10px;
   padding-bottom: 5px;
-  margin: 0 0.5%;
-  width: 170px;
+  margin: 0 0.1%;
+  width: 160px;
 }
-hr {
-  height: 1px;
-  border-width: 0;
-  background-color: #19FF80;
-  color: #19FF80;
+button {
+  height: 31px;
+  width: 88px;
 }
 a:link {
-  color: #2ECFFF;
+  color: blue;
   text-decoration: underline;
 }
 
 a:visited {
-  color: #2ECFFF;
+  color: purple;
   text-decoration: underline;
 }
