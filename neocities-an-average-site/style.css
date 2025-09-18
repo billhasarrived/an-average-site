@@ -1,0 +1,132 @@
+@media (prefers-color-scheme: dark) {
+  html, img, video, iframe, button {
+    filter: invert(1);
+  }
+  body {
+    background-color: white;
+  }
+}
+
+body {
+  background: white;
+  color: black;
+  font-family: Georgia, Times, "Times New Roman", Serif, Tahoma, Helvetica, Arial;
+  font-size: 13px;
+  text-align: left;
+}
+header {
+  background-color: white;
+  border-style: double;
+  border-width: 4px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 0 0.1%;
+  width: 240px;
+}
+.about {
+  background-color: white;
+  border-style: dashed;
+  border-width: 1px;
+  padding-left: 15px;
+  padding-right: 10px;
+  width: 90%;
+  margin: 0 0.1%;
+  text-align: left;
+  h2 {
+    text-align: center;
+  }
+}
+
+.wrap {
+  overflow: hidden;
+}
+
+.social {
+  background-color: white;
+  border-style: dashed;
+  border-width: 1px;
+  padding-left: 15px;
+  padding-bottom: 10px;
+  margin: 0 0.1%;
+  width: 225px;
+  text-align: left;
+  h2 {
+    text-align: center;
+  }
+  ul li {
+    list-style-position: inside;
+  }
+}
+.buttons {
+  background-color: white;
+  border-style: dashed;
+  border-width: 1px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  margin: 0 0.1%;
+  width: 60%;
+  text-align: left;
+}
+.archive {
+  background-color: black;
+  border-style: dotted;
+  border-width: 1px;
+  padding-left: 15px;
+  padding-bottom: 5px;
+  margin: 0 0.1%;
+  width: 220px;
+}
+.return {
+  background-color: white;
+  border-style: dotted;
+  border-width: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 5px;
+  margin: 0 0.1%;
+  width: 190px;
+}
+footer {
+  background-color: white;
+  border-style: solid;
+  border-width: 1px;
+  padding-left: 15px;
+  padding-right: 10px;
+  width: 90%;
+  margin: 0 0.1%;
+}
+article {
+  background-color: white;
+  border-style: dashed;
+  border-width: 1px;
+  padding-left: 15px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  text-align: left;
+  margin: 0 0.1%;
+}
+nav {
+  background-color: white;
+  border-style: solid;
+  border-width: 1px;
+  padding-top: 5px;
+  padding-left: 15px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  margin: 0 0.1%;
+  width: 160px;
+}
+button {
+  height: 31px;
+  width: 88px;
+}
+a:link {
+  color: blue;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: purple;
+  text-decoration: underline;
+}
