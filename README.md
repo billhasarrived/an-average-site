@@ -6,4 +6,4 @@ Access it at [https://billhasarrived.github.io/an-average-site/](https://billhas
 https://an-average-site.neocities.org/
 
 ## Licensing
-The contents of this repo are All Rights Reserved, with the exception of the font files from TT2020 which are licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
+The contents of this repo are All Rights Reserved.
