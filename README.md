@@ -1,6 +1,6 @@
 ## Info
 This repo is a mirror of my neocities website for github pages.
-Access it at [https://billhasarrived.github.io/an-average-site/](https://billhasarrived.github.io/an-average-site/)
+Access it at [http://an-average-site.0x53414944494e.net/]
 
 
 ## Licensing
